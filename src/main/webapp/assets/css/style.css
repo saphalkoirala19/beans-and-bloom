@@ -1,0 +1,187 @@
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f8f5f2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Container Layout */
+.container {
+    display: flex;
+    max-width: 1000px;
+    width: 90%;
+    height: 80vh;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* Form Container */
+.form-container {
+    flex: 1;
+    padding: 40px;
+    overflow-y: auto;
+}
+
+.form-container h1 {
+    color: #5a4738;
+    margin-bottom: 8px;
+    font-size: 28px;
+}
+
+.subtitle {
+    color: #8e8e8e;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+
+/* Form Elements */
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: #5a4738;
+    font-weight: 500;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: #b08768;
+    box-shadow: 0 0 0 2px rgba(176, 135, 104, 0.2);
+}
+
+.btn {
+    background-color: #b08768;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+.btn:hover {
+    background-color: #8e6d52;
+}
+
+.toggle-form {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+}
+
+.toggle-form a {
+    color: #b08768;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.toggle-form a:hover {
+    text-decoration: underline;
+}
+
+/* Brand Container */
+.brand-container {
+    flex: 1;
+    background: linear-gradient(135deg, #b08768, #8e6d52);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 40px;
+    position: relative;
+}
+
+.brand-content {
+    text-align: center;
+    max-width: 80%;
+}
+
+.brand-name {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.brand-divider {
+    width: 50px;
+    height: 3px;
+    background-color: white;
+    margin: 0 auto 15px;
+}
+
+.brand-tagline {
+    font-size: 18px;
+    opacity: 0.9;
+    margin-bottom: 30px;
+}
+
+.features-container {
+    text-align: left;
+}
+
+.features-container h2 {
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.feature {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.feature i {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+/* Error styles */
+.error-message {
+    color: #e74c3c;
+    font-size: 14px;
+    margin-top: 5px;
+    display: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .brand-container {
+        padding: 30px;
+        order: -1;
+    }
+
+    .form-container {
+        padding:30px;
+        }
+}
