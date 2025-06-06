@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./assets/css/index.css"> <%-- Adjust path as needed --%>
 </head>
 <body>
-<header>
+<header> 
     <h1>Bean & Bloom</h1>
 </header>
 

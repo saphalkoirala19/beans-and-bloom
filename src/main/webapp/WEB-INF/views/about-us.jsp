@@ -213,14 +213,14 @@
                 <div class="team-card">
                     <img src="${pageContext.request.contextPath}/assets/images/team1.jpg" alt="Founder" class="team-img">
                     <div class="team-info">
-                        <h4>Rupen Rana Magar</h4>
+                        <h4>Saphal Koirala</h4>
                         <p>Founder & Head Barista</p>
                     </div>
                 </div>
                 <div class="team-card">
                     <img src="${pageContext.request.contextPath}/assets/images/team2.jpg" alt="Manager" class="team-img">
                     <div class="team-info">
-                        <h4>Alir Moktan Tamang</h4>
+                        <h4>John Doe</h4>
                         <p>Cafe Manager</p>
                     </div>
                 </div>
@@ -229,21 +229,21 @@
                 <div class="team-card">
                     <img src="${pageContext.request.contextPath}/assets/images/team3.jpg" alt="Pastry Chef" class="team-img">
                     <div class="team-info">
-                        <h4>Saphal Koirala</h4>
+                        <h4>Pukar Koirala</h4>
                         <p>Pastry Chef</p>
                     </div>
                 </div>
                 <div class="team-card">
                     <img src="${pageContext.request.contextPath}/assets/images/team4.jpg" alt="Barista" class="team-img">
                     <div class="team-info">
-                        <h4>Keshab Sigdel</h4>
+                        <h4>Alex Hales</h4>
                         <p>Lead Barista</p>
                     </div>
                 </div>
                 <div class="team-card">
                     <img src="${pageContext.request.contextPath}/assets/images/team5.jpg" alt="Marketing" class="team-img">
                     <div class="team-info">
-                        <h4>Aakriti Kafle </h4>
+                        <h4>Saffy Acharya</h4>
                         <p>Marketing Manager</p>
                     </div>
                 </div>
