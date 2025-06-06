@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <title>Add New Item - Brew and Beans</title>
+    <title>Add New Item -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         .item-form {

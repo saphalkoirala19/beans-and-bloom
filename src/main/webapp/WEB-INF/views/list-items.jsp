@@ -7,7 +7,7 @@
 
 <html>
 <head>
-    <title>Item Management - Brew and Beans</title>
+    <title>Item Management -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         .item-image {
@@ -207,7 +207,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+    <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
 </footer>
 </body>
 </html>

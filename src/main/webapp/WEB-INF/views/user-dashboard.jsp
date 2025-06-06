@@ -6,7 +6,7 @@
 %>
 <html>
 <head>
-    <title>Customer Dashboard - Brew and Beans</title>
+    <title>Customer Dashboard -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         /* Overall Layout */
@@ -262,7 +262,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Brew and Beans - Crafted with ❤️ for coffee lovers</p>
+        <p>&copy; 2025Beans & Bloom - Crafted with ❤️ for coffee lovers</p>
     </footer>
 </div>
 

@@ -2,7 +2,7 @@
 <%@ page import="com.example.demo.models.itemsModel" %>
 <html>
 <head>
-    <title>Edit Item - Brew and Beans</title>
+    <title>Edit Item -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         .item-form {
@@ -135,7 +135,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+    <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
 </footer>
 </body>
 </html>

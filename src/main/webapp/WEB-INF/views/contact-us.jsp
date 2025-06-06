@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Contact Us - Brew and Beans</title>
+    <title>Contact Us -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -293,7 +293,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2025 Brew and Beans - Cafe Management System. All rights reserved.</p>
+    <p>&copy; 2025Beans & Bloom - Cafe Management System. All rights reserved.</p>
 </footer>
 </body>
 </html>

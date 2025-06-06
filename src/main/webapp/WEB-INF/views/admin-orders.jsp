@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Order Management - Brew and Beans</title>
+  <title>Order Management -Beans & Bloom</title>
   <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
   <style>
     .order-table {
@@ -205,7 +205,7 @@
 </div>
 
 <footer>
-  <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+  <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
 </footer>
 </body>
 </html>

@@ -4,7 +4,7 @@
 
 <html>
 <head>
-    <title>Edit Profile - Brew and Beans</title>
+    <title>Edit Profile -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         /* Additional styles for edit profile page */
@@ -200,7 +200,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+    <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
 </footer>
 
 <script>

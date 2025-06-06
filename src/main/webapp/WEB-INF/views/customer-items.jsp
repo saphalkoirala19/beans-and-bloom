@@ -7,7 +7,7 @@
 
 <html>
 <head>
-    <title>Item Catalog - Brew and Beans</title>
+    <title>Item Catalog -Beans & Bloom</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/admin-dashboard.css">
     <style>
         /* Overall Layout */
@@ -313,7 +313,7 @@
 <div class="main-content">
     <header>
         <h1>Item Catalog</h1>
-        <p>Browse our selection of items at Brew and Beans</p>
+        <p>Browse our selection of items atBeans & Bloom</p>
     </header>
 
     <div class="container">
@@ -376,7 +376,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+        <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
     </footer>
 </div>
 

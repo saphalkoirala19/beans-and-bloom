@@ -235,7 +235,7 @@
 <div class="main-content">
     <header>
         <h1>Edit Profile</h1>
-        <p>Update your personal information at Brew and Beans</p>
+        <p>Update your personal information atBeans & Bloom</p>
     </header>
 
     <div class="card">
@@ -303,7 +303,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+        <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
     </footer>
 </div>
 

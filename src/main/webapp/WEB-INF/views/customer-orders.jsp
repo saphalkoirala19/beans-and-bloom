@@ -270,7 +270,7 @@
 <div class="main-content">
     <header>
         <h1>My Orders</h1>
-        <p>View your order history at Brew and Beans</p>
+        <p>View your order history atBeans & Bloom</p>
     </header>
 
     <div class="orders-container">
@@ -339,7 +339,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Brew and Beans - Cafe Management System</p>
+        <p>&copy; 2025Beans & Bloom - Cafe Management System</p>
     </footer>
 </div>
 </body>
